@@ -1,1 +1,1 @@
-# graphql-rails
+# GraphQL API with Ruby on Rails
