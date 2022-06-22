@@ -49,3 +49,5 @@ group :development do
   gem "graphiql-rails"
 end
 
+
+gem "bcrypt", "~> 3.1"
